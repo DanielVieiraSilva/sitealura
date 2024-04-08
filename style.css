@@ -3,8 +3,13 @@
     padding: 0;
 }
 
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+
 .cabecalho {
-    background-color: #6c0794;
+    background-color: #583857;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -24,12 +29,24 @@
 
 .sobre-imagem{
     width: 25%;
+    justify-content: center;
 }
 
 .sobre{
     background-image: linear-gradient(#6c0794, #268700);
     color: white;
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+.sobre-div-conteudo{
+    width: 35%;
+}
+
+.cabecalho{
+    padding: 24px 0;
+}
+
 
 
