@@ -34,12 +34,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+}
 .sobre-imagem{
     width: 25%;
     justify-content: center;
 }
 
-}
 .sobre-div-conteudo{
     width: 35%;
 }
@@ -50,7 +50,7 @@ body {
     padding:24px;
 }
 .estudante-imagem{
-    width: 120px;
+    width: 100px;
 }
 .estudante-icone{
     width:40px;
