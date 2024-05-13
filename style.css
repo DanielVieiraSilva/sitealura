@@ -49,12 +49,19 @@ body {
     color:white;
     padding:24px;
 }
+.estudante-titulo{
+
+}
 .estudante-imagem{
     width: 100px;
 }
 .estudante-icone{
     width:40px;
 }
+.estudante-todos{
+    display: grid;
+}
+
 
 
 
